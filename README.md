@@ -1,0 +1,2 @@
+# learnlinux
+go through linux!
